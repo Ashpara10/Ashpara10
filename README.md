@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨  Currently learning about the web ecosystem</p>
+<p align="left">✨  Currently learning about the web ecosystem & Full Stack Development</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h1 align="left">Technologies</h1>
 
 ###
 
@@ -64,8 +64,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="249" src="https://imgs.search.brave.com/T7X1rz9q-uAXD4rn0-caGXi_YMyGjQa6jRMBgBwqUys/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvc3R1ZGlv/LWdoaWJsaS1oYXlh/by1taXlhemFraS1z/bGVlcGluZy1weGhs/djJ5eThnNHNzMGx5/LmdpZg.gif"  />
+<img src="https://raw.githubusercontent.com/Ashpara10/Ashpara10/output/snake.svg" alt="Snake animation" />
 
 ###
